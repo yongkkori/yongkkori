@@ -13,7 +13,7 @@
 
 
 ## 4.실행 영상
-[유튜브](https://youtube.com/shorts/FoxHMS52BvI)
+[유튜브](https://www.youtube.com/watch?v=FoxHMS52BvI)
 
 ## 5.구독인증사진
 ![구독사진](https://user-images.githubusercontent.com/107388377/174477324-02a9eedb-3375-4385-a64a-1fcfac9d6949.png)
