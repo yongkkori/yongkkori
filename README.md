@@ -6,3 +6,11 @@
 - Arduino nano rp2040의 IMU센서를 통해 사용자의 가속도를 실시간으로 측정해  Walking 상태인지 Stop상태인지 DashBoard에 확인 할 수 있음.
 
 ## 2.Node-RED 플로우
+![flow](https://user-images.githubusercontent.com/107388377/174476641-e45ccd16-9d20-4573-b968-15e6fa86d538.png)
+
+## 3.Node-RED DashBoard
+![dashboard](https://user-images.githubusercontent.com/107388377/174476666-ca6bf209-2367-4d74-819a-d84f13eaaa5f.png)
+
+
+## 4.실행 영상
+[유튜브](https://youtube.com/shorts/FoxHMS52BvI)
