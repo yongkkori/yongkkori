@@ -1,4 +1,4 @@
-# 임베디드프로젝트_1701249김용호_701274 온기환
+# 임베디드프로젝트_1701249김용호_1701274 온기환
 
 ## 1.프로젝트 설명
 - Jetson Nano, Arduino nano rp2040를 사용하였으며, 두 기기 사이에 MQTT 브로커를 통해 TOPIC을 설정하고 Publish,Subscribe 한 후 Node-RED DashBoard에 결과값을 도출해냄.
