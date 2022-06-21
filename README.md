@@ -7,6 +7,7 @@
 
 ## 2.블럭도
 <img width="50%" src=https://github.com/yongkkori/yongkkori/blob/main/wwrs.PNG>
+
 ## 3.Node-RED 플로우
 ![flow](https://user-images.githubusercontent.com/107388377/174476641-e45ccd16-9d20-4573-b968-15e6fa86d538.png)
 
